@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Hello Earth!</title>
+  <title>금붕어</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-04-07T22:34:55+09:00</updated>
+  <updated>2024-04-07T22:42:55+09:00</updated>
   <author>
     <name>Taehee Kim</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>리눅스 기본 명령어</title>
+    <link href="http://localhost:4000/posts/linux-basic-command/" rel="alternate" type="text/html" title="리눅스 기본 명령어" />
+    <published>2024-04-07T00:00:00+09:00</published>
+  
+    <updated>2024-04-07T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/linux-basic-command/</id>
+    <content src="http://localhost:4000/posts/linux-basic-command/" />
+    <author>
+      <name>KimTaering</name>
+    </author>
+
+  
+    
+  
+
+  <summary></summary>
+
+  </entry>
 
   
   <entry>
